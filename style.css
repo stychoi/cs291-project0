@@ -6,6 +6,12 @@ main {
 
 }
 
+img {
+    width: 10%;
+    height: auto;
+
+}
+
 table, th, td {
     border: 1px solid black;
 }
